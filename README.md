@@ -1,0 +1,2 @@
+- First thing I did in this project was create a CTE
+- 
